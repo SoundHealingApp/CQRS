@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CQRS</id>
+    <version>1.0.0</version>
+    <title>SoundHealing.CQRS</title>
+    <authors>IrinaPechik</authors>
+    <description>Package for cqrs</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/bin/Debug/net9.0/CQRS.dll" target="lib/net9.0/CQRS.dll" />
+  </files>
+</package>

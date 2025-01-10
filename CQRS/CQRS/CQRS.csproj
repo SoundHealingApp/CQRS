@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyVersion>1.0.0</AssemblyVersion>
+        <FileVersion>1.0.0</FileVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>SH.CQRS</Title>
+        <Description>Package for cqrs</Description>
+        <Authors>IrinaPechik</Authors>
+        <PackageId>SH.CQRS</PackageId>
+        <Product>SH.CQRS</Product>
+    </PropertyGroup>
+
+</Project>

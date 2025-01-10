@@ -1,0 +1,11 @@
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/bin/Debug/net9.0/CQRS.deps.json
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/bin/Debug/net9.0/CQRS.dll
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/bin/Debug/net9.0/CQRS.pdb
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/obj/Debug/net9.0/CQRS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/obj/Debug/net9.0/CQRS.AssemblyInfoInputs.cache
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/obj/Debug/net9.0/CQRS.AssemblyInfo.cs
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/obj/Debug/net9.0/CQRS.csproj.CoreCompileInputs.cache
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/obj/Debug/net9.0/CQRS.dll
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/obj/Debug/net9.0/refint/CQRS.dll
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/obj/Debug/net9.0/CQRS.pdb
+/Users/irinapecik/Documents/Projects/SoundHealing/CQRS/CQRS/CQRS/obj/Debug/net9.0/ref/CQRS.dll
